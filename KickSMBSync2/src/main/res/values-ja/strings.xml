@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KickSMBSync2</string>
+    <string name="smbsync2_missing">SMBSync2がインストールされている必要があります。</string>
+</resources>
