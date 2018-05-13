@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">KickSMBSync2</string>
-    <string name="smbsync2_missing">SMBSync2がインストールされている必要があります。</string>
+    <string name="smbsync2_missing">SMBSync2がインストールされていません。</string>
+    <string name="smbsync2_ver_150_missing">SMBSync2 Ver1.50以上がインストールされている必要があります。</string>
 </resources>
